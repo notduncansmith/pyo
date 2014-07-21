@@ -46,7 +46,7 @@ api.yoOne('notduncansmith')
 To get a count of all your subscribers:
 
 ```javascript
-qpi.subscribers()
+api.subscribers()
 .then(function (subCount) {
   // => 3
 });
