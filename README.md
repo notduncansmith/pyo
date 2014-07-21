@@ -1,4 +1,4 @@
-# Noyo
+# Pyo 
 
 A simple, promise-based wrapper for the Yo api.
 
@@ -8,6 +8,10 @@ A simple, promise-based wrapper for the Yo api.
 Make sure you've signed up for the Yo api.  You can do so [here](http://yoapi.justyo.co/).
 Have your API token ready at the next window.
 
+
+## Get it
+
+`npm install --save pyo`
 
 ## Initialization
 
