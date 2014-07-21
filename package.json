@@ -1,0 +1,15 @@
+{
+  "name": "noyo",
+  "version": "0.0.1",
+  "description": "A wrapper for the Yo API",
+  "main": "app.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Duncan Smith",
+  "license": "ISC",
+  "dependencies": {
+    "request": "~2.37.0",
+    "q": "~1.0.1"
+  }
+}
